@@ -1,13 +1,15 @@
 # Assignment 1
 
+<p>
 1.  	In this game of roulette,  accept a bet from the user and calculate if it’s red/black, even or odd, high(1st 12), middle(2nd 12) or low(3rd 12)
   
 ![image](https://user-images.githubusercontent.com/71347034/116948267-f30adf00-ac4c-11eb-8273-309cf59c5bdd.png)
-
+</p>
        
+<p>
 2.     	Accept score of a student as input and calculate the grade. Use a combination of boundary inclusive and boundary exclusive operators
 
-     <table>
+<table>
 <tbody>
 <tr>
 <td>
@@ -59,3 +61,4 @@
 </tr>
 </tbody>
 </table>
+</p>
